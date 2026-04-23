@@ -1,0 +1,10 @@
+# Robots.txt untuk Bank Aceh Syariah Contact Center
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://kontak-center-bank-aceh-syariah.vercel.app/sitemap.xml
+
+# Disallow admin or private pages (jika ada)
+# Disallow: /admin/
+# Disallow: /private/
